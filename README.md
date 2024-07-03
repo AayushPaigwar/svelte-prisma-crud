@@ -88,3 +88,21 @@ svelte-prisma-crud
 └── svelte.config.js
 
 ```
+
+---
+
+## Contributing
+
+Contributions are always welcome! Please ensure that your PR is well-tested and follows the
+steps below:
+
+1. Fork the project
+2. Create a new branch (`git checkout -b feat/new-feature`)
+3. Make changes
+4. Commit your changes (`git commit -am 'Add new feature'`)
+5. Push to the branch (`git push origin feat/new-feature`)
+6. Create a new Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
