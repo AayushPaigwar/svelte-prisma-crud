@@ -1,6 +1,10 @@
 # Svelte + Prisma ORM CRUD Project
 
-This project is a simple CRUD (Create, Read, Update, Delete) application built using Svelte for the frontend and Prisma ORM for database interactions. It serves as a starting point for building more complex applications.
+This project is a simple CRUD (Create, Read, Update, Delete) application built using Svelte for the frontend and Prisma ORM for database interactions. It serves as a starting point 
+
+## Video Demo
+
+https://github.com/AayushPaigwar/svelte-prisma-crud/assets/90213184/011a887a-d1c6-4dba-87e7-356a9fe7144f
 
 ## Features
 
